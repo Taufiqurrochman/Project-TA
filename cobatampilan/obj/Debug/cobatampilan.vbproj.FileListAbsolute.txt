@@ -1,0 +1,22 @@
+D:\TA\cobatampilan\cobatampilan\bin\Debug\cobatampilan.exe.config
+D:\TA\cobatampilan\cobatampilan\bin\Debug\cobatampilan.exe
+D:\TA\cobatampilan\cobatampilan\bin\Debug\cobatampilan.pdb
+D:\TA\cobatampilan\cobatampilan\bin\Debug\cobatampilan.xml
+D:\TA\cobatampilan\cobatampilan\obj\Debug\cobatampilan.Form1.resources
+D:\TA\cobatampilan\cobatampilan\obj\Debug\cobatampilan.Resources.resources
+D:\TA\cobatampilan\cobatampilan\obj\Debug\cobatampilan.vbproj.GenerateResource.Cache
+D:\TA\cobatampilan\cobatampilan\obj\Debug\cobatampilan.exe
+D:\TA\cobatampilan\cobatampilan\obj\Debug\cobatampilan.xml
+D:\TA\cobatampilan\cobatampilan\obj\Debug\cobatampilan.pdb
+E:\laporan akhir\cobatampilan\cobatampilan\bin\Debug\cobatampilan.exe.config
+E:\laporan akhir\cobatampilan\cobatampilan\bin\Debug\cobatampilan.exe
+E:\laporan akhir\cobatampilan\cobatampilan\bin\Debug\cobatampilan.pdb
+E:\laporan akhir\cobatampilan\cobatampilan\bin\Debug\cobatampilan.xml
+E:\laporan akhir\cobatampilan\cobatampilan\obj\Debug\cobatampilan.vbprojAssemblyReference.cache
+E:\laporan akhir\cobatampilan\cobatampilan\obj\Debug\cobatampilan.Form1.resources
+E:\laporan akhir\cobatampilan\cobatampilan\obj\Debug\cobatampilan.Resources.resources
+E:\laporan akhir\cobatampilan\cobatampilan\obj\Debug\cobatampilan.vbproj.GenerateResource.cache
+E:\laporan akhir\cobatampilan\cobatampilan\obj\Debug\cobatampilan.vbproj.CoreCompileInputs.cache
+E:\laporan akhir\cobatampilan\cobatampilan\obj\Debug\cobatampilan.exe
+E:\laporan akhir\cobatampilan\cobatampilan\obj\Debug\cobatampilan.xml
+E:\laporan akhir\cobatampilan\cobatampilan\obj\Debug\cobatampilan.pdb
